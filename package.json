@@ -1,0 +1,19 @@
+{
+  "name": "pancakeswap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubanrubi/pancakeswap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubanrubi/pancakeswap/issues"
+  },
+  "homepage": "https://github.com/Rubanrubi/pancakeswap#readme"
+}
